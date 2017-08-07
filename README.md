@@ -1,6 +1,7 @@
 # Clustering tweets using Tweet2Vec
 Evaluation of tweet representation approaches for hierarchical tweet clustering
 
+Code for paper [Character-based Neural Embeddings for Tweet Clustering](https://arxiv.org/abs/1703.05123)
 
 ## Obtaining SNOW 2014 dataset
 1. Download [SNOW 14 testset IDs](https://ndownloader.figshare.com/files/3176519)
